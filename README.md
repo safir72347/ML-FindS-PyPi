@@ -2,9 +2,15 @@ Find-S Algorithm
 ===================
 
 
-Find-S algorithm finds the most specific hypothesis that fits all the positive examples.
+Find-S algorithm is a Machine Learning Algorithm that finds the most specific hypothesis that fits all the positive examples.
 
 ----------
+
+Installation
+-------------
+Install directly from my [PyPi](https://pypi.org/project/classic-FindS/)
+
+> pip install classic-FindS
 
 Parameters
 -------------

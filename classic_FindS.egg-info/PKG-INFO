@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: classic-FindS
-Version: 1.0.2
-Summary: Find-S algorith finds the most specific hypothesis that fits all the positive examples.
+Version: 1.0.6
+Summary: Find-S algorithm is a Machine Learning Algorithm that finds the most specific hypothesis that fits all the positive examples.
 Home-page: https://github.com/safir72347/ML-FindS-PyPi
 Author: Safir Motiwala
 Author-email: safirmotiwala@gmail.com
@@ -10,9 +10,15 @@ Description: Find-S Algorithm
         ===================
         
         
-        Find-S algorithm finds the most specific hypothesis that fits all the positive examples.
+        Find-S algorithm is a Machine Learning Algorithm that finds the most specific hypothesis that fits all the positive examples.
         
         ----------
+        
+        Installation
+        -------------
+        Install directly from my [PyPi](https://pypi.org/project/classic-FindS/)
+        
+        > pip install classic-FindS
         
         Parameters
         -------------
