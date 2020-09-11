@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="classic_FindS", 
-    version="1.0.6",
+    version="2.0.0",
     author="Safir Motiwala",
     author_email="safirmotiwala@gmail.com",
     description="Find-S algorithm is a Machine Learning Algorithm that finds the most specific hypothesis that fits all the positive examples.",
